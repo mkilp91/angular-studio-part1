@@ -1,4 +1,12 @@
 .box {
     display: flex;
     padding: 10px;
+    background-color: azure;
+}
+
+.list {
+    border-style: ridge;
+    margin-right: 3px;
+    margin-left: 3px;
+    width: 33%;
 }
